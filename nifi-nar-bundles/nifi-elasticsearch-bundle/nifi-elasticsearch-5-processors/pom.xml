@@ -22,7 +22,7 @@ language governing permissions and limitations under the License. -->
 
     <properties>
         <slf4jversion>2.7</slf4jversion>
-        <es.version>5.0.1</es.version>
+        <es.version>7.5.0</es.version>
         <lucene.version>6.2.1</lucene.version>
     </properties>
 
