@@ -45,17 +45,17 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-netty</artifactId>
-            <version>1.8.0</version>
+            <version>1.29.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-protobuf</artifactId>
-            <version>1.8.0</version>
+            <version>1.35.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-stub</artifactId>
-            <version>1.8.0</version>
+            <version>1.21.0</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
