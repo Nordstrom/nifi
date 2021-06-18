@@ -20,7 +20,7 @@
     <artifactId>nifi-azure-processors</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <azure-eventhubs.version>0.14.4</azure-eventhubs.version>
+        <azure-eventhubs.version>2.2.0</azure-eventhubs.version>
     </properties>
     <dependencies>
         <dependency>
