@@ -27,8 +27,8 @@
     <packaging>pom</packaging>
 
     <properties>
-        <druid.version>0.9.1</druid.version>
-        <tranquility.version>0.8.2</tranquility.version>
+        <druid.version>0.10.1</druid.version>
+        <tranquility.version>0.8.3</tranquility.version>
     </properties>
 
     <dependencyManagement>
